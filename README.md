@@ -1,21 +1,21 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mAmineChniti.mAmineChniti" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+mAmineChniti!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Givemeboga!;" />
 </h1>
 
 I'm an ESPRIT student with a passion for backend engineering. Committed to learning and innovation, I aspire to contribute to the tech world with my programming skills.
 
 <div align="center">
 
-* 🌍  I'm based in Tunis
-* ✉️  You can contact me on
+- 🌍 I'm based in Tunis
+- ✉️ You can contact me on
   <br>
-  <a href="mailto:emin.chniti@esprit.tn.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="mailto:youssef.ben.chaouacha@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-* 🚀  I'm currently working on [sticks](http://github.com/mAmineChniti/sticks)
-* 🧠  I'm learning rust
+- 🚀 I'm currently working on [sticks](http://github.com/mAmineChniti/sticks)
+- 🧠 I'm learning rust
 
 </div>
 
@@ -24,8 +24,8 @@ I'm an ESPRIT student with a passion for backend engineering. Committed to learn
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,php,bash,postman,md" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,c,mysql,fastapi,rust,githubactions,linux," />
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,php,bash" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,cpp,mysql,linux" />
     <br>
 </div>
 
@@ -35,7 +35,7 @@ I'm an ESPRIT student with a passion for backend engineering. Committed to learn
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mAmineChniti/mAmineChniti/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Givemeboga/Givemeboga/output/github-contribution-grid-snake.svg" />
 
 </div>
 
