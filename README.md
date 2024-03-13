@@ -24,8 +24,8 @@ Currently in undergraduate engineering at Esprit Graduate School, I am intending
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,php,bash" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,cpp,mysql,linux" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,sass,html,css,vscode,github,php,bash" />
+    <img src="https://skillicons.dev/icons?i=qt,arduino,neovim,python,javascript,c,cpp,mysql,linux" />
     <br>
 </div>
 
