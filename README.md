@@ -15,7 +15,7 @@ Currently in undergraduate engineering at Esprit Graduate School, I am intending
 <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
 <!-- - 🚀 I'm currently working on [sticks](http://github.com/mAmineChniti/sticks) -->
-- 🧠 I'm learning C++
+- 🧠 I'm always learning new stuff
 
 </div>
 
@@ -24,7 +24,7 @@ Currently in undergraduate engineering at Esprit Graduate School, I am intending
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,sass,html,css,vscode,github,php,bash" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,sass,html,css,vscode,github,php,bash,symfony,java" />
     <img src="https://skillicons.dev/icons?i=qt,arduino,neovim,python,javascript,c,cpp,mysql,linux" />
     <br>
 </div>
