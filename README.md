@@ -25,7 +25,7 @@ Currently in undergraduate engineering at Esprit Graduate School, I am intending
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,sass,html,css,vscode,github,php,bash,symfony,java" />
-    <img src="https://skillicons.dev/icons?i=qt,arduino,neovim,python,javascript,c,cpp,mysql,linux,java" />
+    <img src="https://skillicons.dev/icons?i=qt,arduino,neovim,python,javascript,c,cpp,mysql,linux" />
     <br>
 </div>
 
