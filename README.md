@@ -15,7 +15,7 @@
     <a href="mailto:youssef.ben.chaouacha@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a><br/>
-    🚀 I'm currently working on <a href="http://github.com/mAmineChniti/sticks">BioScan</a><br/>
+    🚀 I'm currently working on <a href="https://github.com/Givemeboga/BioScan.git">BioScan</a><br/>
   </p>
 </div>
 
