@@ -24,9 +24,9 @@
 <h2 align="center">⚒️ Languages, Frameworks, and Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,python,php,bash,md,mysql" />
-  <img src="https://skillicons.dev/icons?i=react,htmx,bootstrap,fastapi" />
-  <img src="https://skillicons.dev/icons?i=neovim,pnpm,bun,nodejs,npm,linux,docker,git,github,githubactions" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,c,cpp,cs,java,spring,symfony,dotnet,python,php,bash,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,angular,react,fastapi,pycharm" />
+  <img src="https://skillicons.dev/icons?i=kali,ubuntu,arduino,qt,neovim,nodejs,npm,linux,docker,jenkins,github" />
 </div>
 
 <hr/>
