@@ -28,14 +28,14 @@
     <tr>
       <td align="center" width="50%">
         <a href="https://github.com/Givemeboga/BioScan">
-          <img src="https://gh-card.dev/repos/Givemeboga/BioScan.svg" />
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Givemeboga&repo=BioScan&theme=react&hide_border=true" />
         </a>
         <br/>
         <sub>🏥 Secure medical data analysis platform — FastAPI + React hybrid-cloud app</sub>
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/Givemeboga/Fortify">
-          <img src="https://gh-card.dev/repos/Givemeboga/Fortify.svg" />
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Givemeboga&repo=Fortify&theme=react&hide_border=true" />
         </a>
         <br/>
         <sub>🛡️ Open-source web application security scanner built in Python</sub>
