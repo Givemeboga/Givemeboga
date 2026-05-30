@@ -28,14 +28,14 @@
     <tr>
       <td align="center" width="50%">
         <a href="https://github.com/Givemeboga/BioScan">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Givemeboga&repo=BioScan&theme=react&hide_border=true" />
+          <img src="https://gh-card.dev/repos/Givemeboga/BioScan.svg" />
         </a>
         <br/>
         <sub>🏥 Secure medical data analysis platform — FastAPI + React hybrid-cloud app</sub>
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/Givemeboga/Fortify">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Givemeboga&repo=Fortify&theme=react&hide_border=true" />
+          <img src="https://gh-card.dev/repos/Givemeboga/Fortify.svg" />
         </a>
         <br/>
         <sub>🛡️ Open-source web application security scanner built in Python</sub>
@@ -69,7 +69,7 @@
 <h2 align="center">🏆 Trophies 🏆</h2>
 <br/>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Givemeboga&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://github-profile-trophy-chi.vercel.app/?username=Givemeboga&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" />
 </div>
 
 <hr/>
