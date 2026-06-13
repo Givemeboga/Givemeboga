@@ -14,7 +14,7 @@
     ✉️ <a href="mailto:youssef.ben.chaouacha@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a><br/>
-    🚀 Currently working on <a href="https://github.com/Givemeboga/BioScan"><strong>BioScan</strong></a>
+    🚀 Currently working on <a href="https://github.com/Givemeboga/Fortify"><strong>Fortify</strong></a>
   </p>
 </div>
 
