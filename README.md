@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img alt="Subject dossier — Youssef Ben Chaouacha" src="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark-anim.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light-anim.svg">
+  <img alt="Subject dossier — Youssef Ben Chaouacha" src="assets/header-dark-anim.svg">
 </picture>
 
 <sub><code>CONTENTS</code> &nbsp; §01 SUBJECT &nbsp;&#183;&nbsp; §02 OPERATIONS &nbsp;&#183;&nbsp; §03 CAPABILITY &nbsp;&#183;&nbsp; §04 EXERCISES &nbsp;&#183;&nbsp; §05 SURVEILLANCE &nbsp;&#183;&nbsp; §06 CONTACT</sub>
