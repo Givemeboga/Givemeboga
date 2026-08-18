@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" role="img" aria-label="Activity plate: commits per hour of day and twelve-month totals">
+  <rect x="1" y="1" width="998" height="338" rx="8" fill="#0D1117" stroke="#30363D"></rect>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="2.2" fill="#8B949E">
+    <text x="32" y="36">PATTERN OF LIFE // TRAILING 12 MONTHS · UTC +01:00</text>
+    <text x="968" y="36" text-anchor="end">AS OF 2026-08-17</text>
+  </g>
+  <line x1="32" y1="50" x2="968" y2="50" stroke="#30363D"></line>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="2.4" fill="#6E7681">
+    <text x="66" y="80">COMMITS PER HOUR</text>
+    <text x="676" y="80">FIELD TOTALS</text>
+  </g>
+  <line x1="66" y1="262" x2="612" y2="262" stroke="#21262D"></line>
+  <text x="56" y="266" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6E7681">0</text>
+  <line x1="66" y1="197" x2="612" y2="197" stroke="#21262D"></line>
+  <text x="56" y="201" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6E7681">10</text>
+  <line x1="66" y1="132" x2="612" y2="132" stroke="#21262D"></line>
+  <text x="56" y="136" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6E7681">20</text>
+  <rect x="69.88" y="184" width="15" height="78" fill="#7C6CFF" opacity="0.72"></rect>
+  <rect x="92.63" y="216.5" width="15" height="45.5" fill="#7C6CFF" opacity="0.72"></rect>
+  <rect x="115.38" y="255.5" width="15" height="6.5" fill="#7C6CFF" opacity="0.72"></rect>
+  <rect x="138.13" y="260" width="15" height="2" fill="#21262D"></rect>
+  <rect x="160.88" y="260" width="15" height="2" fill="#21262D"></rect>
+  <rect x="183.63" y="260" width="15" height="2" fill="#21262D"></rect>
+  <rect x="206.38" y="260" width="15" height="2" fill="#21262D"></rect>
+  <rect x="229.13" y="260" width="15" height="2" fill="#21262D"></rect>
+  <rect x="251.88" y="260" width="15" height="2" fill="#21262D"></rect>
+  <rect x="274.63" y="260" width="15" height="2" fill="#21262D"></rect>
+  <rect x="297.38" y="255.5" width="15" height="6.5" fill="#7C6CFF" opacity="0.72"></rect>
+  <rect x="320.13" y="242.5" width="15" height="19.5" fill="#7C6CFF" opacity="0.72"></rect>
+  <rect x="342.88" y="236" width="15" height="26" fill="#7C6CFF" opacity="0.72"></rect>
+  <rect x="365.63" y="216.5" width="15" height="45.5" fill="#7C6CFF" opacity="0.72"></rect>
+  <rect x="388.38" y="203.5" width="15" height="58.5" fill="#7C6CFF" opacity="0.72"></rect>
+  <rect x="411.13" y="223" width="15" height="39" fill="#7C6CFF" opacity="0.72"></rect>
+  <rect x="433.88" y="242.5" width="15" height="19.5" fill="#7C6CFF" opacity="0.72"></rect>
+  <rect x="456.63" y="249" width="15" height="13" fill="#7C6CFF" opacity="0.72"></rect>
+  <rect x="479.38" y="255.5" width="15" height="6.5" fill="#7C6CFF" opacity="0.72"></rect>
+  <rect x="502.13" y="210" width="15" height="52" fill="#7C6CFF" opacity="0.72"></rect>
+  <rect x="524.88" y="190.5" width="15" height="71.5" fill="#7C6CFF" opacity="0.72"></rect>
+  <rect x="547.63" y="223" width="15" height="39" fill="#7C6CFF" opacity="0.72"></rect>
+  <rect x="570.38" y="190.5" width="15" height="71.5" fill="#7C6CFF" opacity="0.72"></rect>
+  <rect x="593.13" y="106" width="15" height="156" fill="#7C6CFF"></rect>
+  <text x="600.63" y="98" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" font-weight="700" fill="#7C6CFF">24</text>
+  <text x="77.38" y="282" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6E7681">00</text>
+  <text x="213.88" y="282" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6E7681">06</text>
+  <text x="350.38" y="282" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6E7681">12</text>
+  <text x="486.88" y="282" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6E7681">18</text>
+  <text x="600.63" y="282" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6E7681">23</text>
+  <line x1="66" y1="262" x2="612" y2="262" stroke="#30363D"></line>
+  <line x1="648" y1="66" x2="648" y2="286" stroke="#21262D"></line>
+  <text x="676" y="126" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="2" fill="#8B949E">COMMITS</text>
+  <text x="952" y="128" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="26" font-weight="700" fill="#E6EDF3">189</text>
+  <text x="952" y="144" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" letter-spacing="1.6" fill="#6E7681">PRIOR YEAR 142 · <tspan fill="#7C6CFF">+33%</tspan></text>
+  <line x1="676" y1="156" x2="952" y2="156" stroke="#21262D"></line>
+  <text x="676" y="177" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="2" fill="#8B949E">PULL REQUESTS</text>
+  <text x="952" y="179" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="19" font-weight="700" fill="#E6EDF3">26</text>
+  <line x1="676" y1="188.5" x2="952" y2="188.5" stroke="#21262D"></line>
+  <text x="676" y="209.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="2" fill="#8B949E">ISSUES</text>
+  <text x="952" y="211.5" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="19" font-weight="700" fill="#E6EDF3">9</text>
+  <line x1="676" y1="221" x2="952" y2="221" stroke="#21262D"></line>
+  <text x="676" y="242" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="2" fill="#8B949E">STARS EARNED</text>
+  <text x="952" y="244" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="19" font-weight="700" fill="#E6EDF3">9</text>
+  <line x1="676" y1="253.5" x2="952" y2="253.5" stroke="#21262D"></line>
+  <text x="676" y="274.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="2" fill="#8B949E">REPOS TOUCHED</text>
+  <text x="952" y="276.5" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="19" font-weight="700" fill="#E6EDF3">7</text>
+  <line x1="32" y1="306" x2="968" y2="306" stroke="#30363D"></line>
+  <text x="32" y="326" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="2" fill="#8B949E">DORMANT 03:00–09:00 · PEAK AT 23:00 · SUBJECT OPERATES AFTER DARK</text>
+</svg>
