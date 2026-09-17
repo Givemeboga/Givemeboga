@@ -116,6 +116,14 @@ Cybersecurity and cloud computing engineering student in Tunis. Currently on [Ba
 <sub>Subject shows a pronounced tendency to commit after dark. No intervention planned.</sub>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/streak-light.svg">
+  <img alt="Current streak, longest unbroken run, and total logged contributions" src="assets/streak-dark.svg">
+</picture>
+
+<sub>Continuity is not the same as productivity. The file records both without comment.</sub>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/rule-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/rule-light.svg">
   <img alt="" src="assets/rule-dark.svg">
