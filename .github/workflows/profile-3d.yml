@@ -27,6 +27,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PROFILE_USER: ${{ github.repository_owner }}
+      - name: Generate activity plate
+        run: node .github/scripts/activity-plate.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+          PROFILE_USER: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
           git config user.name github-actions
