@@ -2,7 +2,7 @@
   <rect x="1" y="1" width="998" height="338" rx="8" fill="#FFFFFF" stroke="#D0D7DE"></rect>
   <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="2.2" fill="#656D76">
     <text x="32" y="36">PATTERN OF LIFE // TRAILING 12 MONTHS &#183; UTC +01:00</text>
-    <text x="968" y="36" text-anchor="end">AS OF 2026-10-05</text>
+    <text x="968" y="36" text-anchor="end">AS OF 2026-10-06</text>
   </g>
   <line x1="32" y1="50" x2="968" y2="50" stroke="#D0D7DE"></line>
   <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="2.4" fill="#8C959F">
@@ -39,7 +39,7 @@
   <rect x="502.13" y="174.82" width="15" height="87.18" fill="#6A57F5" opacity="0.72"></rect>
   <rect x="524.88" y="161.06" width="15" height="100.94" fill="#6A57F5" opacity="0.72"></rect>
   <rect x="547.63" y="193.18" width="15" height="68.82" fill="#6A57F5" opacity="0.72"></rect>
-  <rect x="570.38" y="138.12" width="15" height="123.88" fill="#6A57F5" opacity="0.72"></rect>
+  <rect x="570.38" y="133.53" width="15" height="128.47" fill="#6A57F5" opacity="0.72"></rect>
   <rect x="593.13" y="106" width="15" height="156" fill="#6A57F5"></rect>
   <text x="600.63" y="98" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" font-weight="700" fill="#6A57F5">34</text>
   <text x="77.38" y="282" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#8C959F">00</text>
@@ -50,8 +50,8 @@
   <line x1="66" y1="262" x2="612" y2="262" stroke="#D0D7DE"></line>
   <line x1="648" y1="66" x2="648" y2="286" stroke="#D8DEE4"></line>
   <text x="676" y="126" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="2" fill="#656D76">COMMITS</text>
-  <text x="952" y="128" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="26" font-weight="700" fill="#1F2328">246</text>
-  <text x="952" y="144" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" letter-spacing="1.6" fill="#8C959F">PRIOR YEAR 3</text>
+  <text x="952" y="128" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="26" font-weight="700" fill="#1F2328">247</text>
+  <text x="952" y="144" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" letter-spacing="1.6" fill="#8C959F">PRIOR YEAR 5</text>
   <line x1="676" y1="156" x2="952" y2="156" stroke="#D8DEE4"></line>
   <text x="676" y="177" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="2" fill="#656D76">PULL REQUESTS</text>
   <text x="952" y="179" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="19" font-weight="700" fill="#1F2328">31</text>
