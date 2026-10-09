@@ -14,7 +14,7 @@
 
 ## Builds systems. Breaks systems. Mostly on purpose.
 
-Cybersecurity and cloud computing engineering student in Tunis. Currently on [Baitway](https://github.com/Givemeboga/Baitway) and [Fortify](https://github.com/Givemeboga/Fortify).
+Cybersecurity and cloud computing engineering student in Tunis. Currently on [Fortify](https://github.com/Givemeboga/Fortify) and [A.D.A](https://github.com/Givemeboga/A.D.A).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/rule-dark.svg">
@@ -53,6 +53,10 @@ Cybersecurity and cloud computing engineering student in Tunis. Currently on [Ba
   <tr>
     <td width="230" valign="top"><sub><code>OP-03</code></sub><br/><strong>BAITWAY</strong><br/><sub>Python &#183; SOC tooling</sub></td>
     <td valign="top">Phishing analysis and IOC threat triage for analysts. Reads the bait so you don’t have to.<br/><sub><a href="https://github.com/Givemeboga/Baitway">github.com/Givemeboga/Baitway</a></sub></td>
+  </tr>
+  <tr>
+    <td width="230" valign="top"><sub><code>OP-04</code></sub><br/><strong>A.D.A</strong><br/><sub>Python &#183; local inference &#183; voice</sub></td>
+    <td valign="top">Agentic voice assistant running wholly on hardware you own. Nothing she hears leaves the building.<br/><sub><a href="https://github.com/Givemeboga/A.D.A">github.com/Givemeboga/A.D.A</a></sub></td>
   </tr>
 </table>
 
