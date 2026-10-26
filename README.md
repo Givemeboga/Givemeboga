@@ -14,7 +14,7 @@
 
 ## Builds systems. Breaks systems. Mostly on purpose.
 
-Cybersecurity and cloud computing engineering student in Tunis. Currently on [Fortify](https://github.com/Givemeboga/Fortify) and [A.D.A](https://github.com/Givemeboga/A.D.A).
+Cybersecurity and cloud computing engineering student in Tunis. Currently on [MedLink](https://github.com/assali-mohamed-ali/api-MedLink), [Fortify](https://github.com/Givemeboga/Fortify) and [A.D.A](https://github.com/Givemeboga/A.D.A).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/rule-dark.svg">
@@ -57,6 +57,10 @@ Cybersecurity and cloud computing engineering student in Tunis. Currently on [Fo
   <tr>
     <td width="230" valign="top"><sub><code>OP-04</code></sub><br/><strong>A.D.A</strong><br/><sub>Python &#183; local inference &#183; voice</sub></td>
     <td valign="top">Agentic voice assistant running wholly on hardware you own. Nothing she hears leaves the building.<br/><sub><a href="https://github.com/Givemeboga/A.D.A">github.com/Givemeboga/A.D.A</a></sub></td>
+  </tr>
+  <tr>
+    <td width="230" valign="top"><sub><code>OP-05</code> &#183; <code>JOINT</code></sub><br/><strong>MEDLINK API</strong><br/><sub>Java &#183; Spring Boot &#183; Keycloak</sub></td>
+    <td valign="top">Health portal API for three clinics. Holds the access control and the audit trail; the browser never sees a token.<br/><sub><a href="https://github.com/assali-mohamed-ali/api-MedLink">github.com/assali-mohamed-ali/api-MedLink</a></sub></td>
   </tr>
 </table>
 
