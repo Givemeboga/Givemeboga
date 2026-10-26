@@ -2,7 +2,7 @@
   <rect x="1" y="1" width="998" height="338" rx="8" fill="#0D1117" stroke="#30363D"></rect>
   <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="2.2" fill="#8B949E">
     <text x="32" y="36">PATTERN OF LIFE // TRAILING 12 MONTHS &#183; UTC +01:00</text>
-    <text x="968" y="36" text-anchor="end">AS OF 2026-10-25</text>
+    <text x="968" y="36" text-anchor="end">AS OF 2026-10-26</text>
   </g>
   <line x1="32" y1="50" x2="968" y2="50" stroke="#30363D"></line>
   <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="2.4" fill="#6E7681">
@@ -50,20 +50,20 @@
   <line x1="66" y1="262" x2="612" y2="262" stroke="#30363D"></line>
   <line x1="648" y1="66" x2="648" y2="286" stroke="#21262D"></line>
   <text x="676" y="126" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="2" fill="#8B949E">COMMITS</text>
-  <text x="952" y="128" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="26" font-weight="700" fill="#E6EDF3">257</text>
+  <text x="952" y="128" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="26" font-weight="700" fill="#E6EDF3">302</text>
   <text x="952" y="144" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" letter-spacing="1.6" fill="#6E7681">PRIOR YEAR 7</text>
   <line x1="676" y1="156" x2="952" y2="156" stroke="#21262D"></line>
   <text x="676" y="177" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="2" fill="#8B949E">PULL REQUESTS</text>
-  <text x="952" y="179" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="19" font-weight="700" fill="#E6EDF3">33</text>
+  <text x="952" y="179" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="19" font-weight="700" fill="#E6EDF3">45</text>
   <line x1="676" y1="188.5" x2="952" y2="188.5" stroke="#21262D"></line>
   <text x="676" y="209.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="2" fill="#8B949E">ISSUES</text>
-  <text x="952" y="211.5" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="19" font-weight="700" fill="#E6EDF3">30</text>
+  <text x="952" y="211.5" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="19" font-weight="700" fill="#E6EDF3">32</text>
   <line x1="676" y1="221" x2="952" y2="221" stroke="#21262D"></line>
   <text x="676" y="242" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="2" fill="#8B949E">STARS EARNED</text>
   <text x="952" y="244" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="19" font-weight="700" fill="#E6EDF3">34</text>
   <line x1="676" y1="253.5" x2="952" y2="253.5" stroke="#21262D"></line>
   <text x="676" y="274.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="2" fill="#8B949E">REPOS TOUCHED</text>
-  <text x="952" y="276.5" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="19" font-weight="700" fill="#E6EDF3">10</text>
+  <text x="952" y="276.5" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="19" font-weight="700" fill="#E6EDF3">11</text>
   <line x1="32" y1="306" x2="968" y2="306" stroke="#30363D"></line>
   <text x="32" y="326" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="2" fill="#8B949E">DORMANT 03:00&#8211;10:00 &#183; PEAK AT 23:00 &#183; SUBJECT OPERATES AFTER DARK</text>
 </svg>
