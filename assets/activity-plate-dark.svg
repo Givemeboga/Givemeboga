@@ -2,7 +2,7 @@
   <rect x="1" y="1" width="998" height="338" rx="8" fill="#0D1117" stroke="#30363D"></rect>
   <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="2.2" fill="#8B949E">
     <text x="32" y="36">PATTERN OF LIFE // TRAILING 12 MONTHS &#183; UTC +01:00</text>
-    <text x="968" y="36" text-anchor="end">AS OF 2026-11-24</text>
+    <text x="968" y="36" text-anchor="end">AS OF 2026-11-25</text>
   </g>
   <line x1="32" y1="50" x2="968" y2="50" stroke="#30363D"></line>
   <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="2.4" fill="#6E7681">
@@ -18,7 +18,7 @@
   <line x1="66" y1="128.29" x2="612" y2="128.29" stroke="#21262D"></line>
   <text x="56" y="132.29" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6E7681">30</text>
   <rect x="69.88" y="172.86" width="15" height="89.14" fill="#7C6CFF" opacity="0.72"></rect>
-  <rect x="92.63" y="172.86" width="15" height="89.14" fill="#7C6CFF" opacity="0.72"></rect>
+  <rect x="92.63" y="168.4" width="15" height="93.6" fill="#7C6CFF" opacity="0.72"></rect>
   <rect x="115.38" y="253.09" width="15" height="8.91" fill="#7C6CFF" opacity="0.72"></rect>
   <rect x="138.13" y="260" width="15" height="2" fill="#21262D"></rect>
   <rect x="160.88" y="260" width="15" height="2" fill="#21262D"></rect>
@@ -27,8 +27,8 @@
   <rect x="229.13" y="260" width="15" height="2" fill="#21262D"></rect>
   <rect x="251.88" y="248.63" width="15" height="13.37" fill="#7C6CFF" opacity="0.72"></rect>
   <rect x="274.63" y="257.54" width="15" height="4.46" fill="#7C6CFF" opacity="0.72"></rect>
-  <rect x="297.38" y="244.17" width="15" height="17.83" fill="#7C6CFF" opacity="0.72"></rect>
-  <rect x="320.13" y="217.43" width="15" height="44.57" fill="#7C6CFF" opacity="0.72"></rect>
+  <rect x="297.38" y="239.71" width="15" height="22.29" fill="#7C6CFF" opacity="0.72"></rect>
+  <rect x="320.13" y="212.97" width="15" height="49.03" fill="#7C6CFF" opacity="0.72"></rect>
   <rect x="342.88" y="244.17" width="15" height="17.83" fill="#7C6CFF" opacity="0.72"></rect>
   <rect x="365.63" y="230.8" width="15" height="31.2" fill="#7C6CFF" opacity="0.72"></rect>
   <rect x="388.38" y="181.77" width="15" height="80.23" fill="#7C6CFF" opacity="0.72"></rect>
@@ -50,8 +50,8 @@
   <line x1="66" y1="262" x2="612" y2="262" stroke="#30363D"></line>
   <line x1="648" y1="66" x2="648" y2="286" stroke="#21262D"></line>
   <text x="676" y="126" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="2" fill="#8B949E">COMMITS</text>
-  <text x="952" y="128" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="26" font-weight="700" fill="#E6EDF3">407</text>
-  <text x="952" y="144" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" letter-spacing="1.6" fill="#6E7681">PRIOR YEAR 12 &#183; <tspan fill="#7C6CFF">+3292%</tspan></text>
+  <text x="952" y="128" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="26" font-weight="700" fill="#E6EDF3">410</text>
+  <text x="952" y="144" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" letter-spacing="1.6" fill="#6E7681">PRIOR YEAR 12 &#183; <tspan fill="#7C6CFF">+3317%</tspan></text>
   <line x1="676" y1="156" x2="952" y2="156" stroke="#21262D"></line>
   <text x="676" y="177" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="2" fill="#8B949E">PULL REQUESTS</text>
   <text x="952" y="179" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="19" font-weight="700" fill="#E6EDF3">46</text>
